@@ -17,6 +17,9 @@ import android.view.View;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.widget.Button;
+import android.widget.Toast;
+
+
 
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
@@ -64,7 +67,7 @@ public class MainActivity extends AppCompatActivity  {
 
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this,MainActivity2.class);
+                Intent i = new Intent(MainActivity.this,RobberyForm.class);
                 startActivity(i);
             }
         });

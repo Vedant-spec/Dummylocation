@@ -11,12 +11,12 @@
         android:id="@+id/title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Accident Report Form"
+        android:text="Robbery Report Form"
         android:textSize="20sp"
         android:textStyle="bold"
         android:textColor="#333"
         android:layout_gravity="center"
-        android:layout_marginBottom="20dp"/>
+        android:layout_marginBottom="20dp" />
 
     <EditText
         android:id="@+id/description"
@@ -113,5 +113,5 @@
         android:backgroundTint="#333"
         android:textColor="#fff"
         android:textSize="16sp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp" />
 </LinearLayout>

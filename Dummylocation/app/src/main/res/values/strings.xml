@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Dummylocation</string>
     <string name="google_maps_api_key">AIzaSyBwqurpI1PExbO5LShRmtkFPMsaMzqwQak</string>
+    <string name="robbery">Robbery</string>
 </resources>
